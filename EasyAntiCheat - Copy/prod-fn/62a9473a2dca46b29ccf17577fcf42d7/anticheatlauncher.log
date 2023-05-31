@@ -1,0 +1,52 @@
+[18:51:53:781] [Windows] [EAC Launcher] [Info] Loaded the following settings .json file: 'C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64\EasyAntiCheat\Settings.json'
+[18:51:53:781] [Windows] [EAC Launcher] [Info] Provided settings:
+[18:51:53:781] [Windows] [EAC Launcher] [Info] ProcessTitle: Fortnite.
+[18:51:53:781] [Windows] [EAC Launcher] [Info] ExecutablePath: FortniteClient-Win64-Shipping.exe.
+[18:51:53:781] [Windows] [EAC Launcher] [Info] ProductId: prod-fn.
+[18:51:53:781] [Windows] [EAC Launcher] [Info] SandboxId: fn.
+[18:51:53:781] [Windows] [EAC Launcher] [Info] DeploymentId: 62a9473a2dca46b29ccf17577fcf42d7.
+[18:51:53:781] [Windows] [EAC Launcher] [Info] RequestedSplashScreen: EasyAntiCheat/SplashScreen.png.
+[18:51:53:781] [Windows] [EAC Launcher] [Info] WaitForGameProcessExit: true.
+[18:51:53:781] [Windows] [EAC Launcher] [Info] HideGUI: false.
+[18:51:53:781] [Windows] [EAC Launcher] [Info] HideBootstrapper: false.
+[18:51:53:957] [Windows] [EAC Launcher] [Info] Embedded resources successfully loaded.
+[18:51:53:965] [Windows] [EAC Launcher] [Info] Will use the icon extracted from the game executable.
+[18:51:54:336] [Windows] [EAC Launcher] [Info] Loader initializing with bootstrapper version 1.6.0.
+[18:51:54:443] [Windows] [EAC Launcher] [Info] Loader component initialized.
+[18:51:54:450] [Windows] [EAC Launcher] [Info] [Connection] Connecting to URL: https://modules-cdn.eac-prod.on.epicgames.com/modules/prod-fn/62a9473a2dca46b29ccf17577fcf42d7/win64
+[18:51:54:454] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:456] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:458] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:458] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:462] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:462] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:467] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:467] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:470] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:472] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:479] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:484] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:496] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:497] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:497] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:498] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:501] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:516] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:516] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:516] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:516] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:516] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:529] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:529] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:529] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:529] [Windows] [EAC Launcher] [Info] Current progress: 0 (0/0).
+[18:51:54:529] [Windows] [EAC Launcher] [Info] [Connection] Connect result: No error (0) Response Code: 304 Destination IP: 18.244.146.43
+[18:51:54:529] [Windows] [EAC Launcher] [Info] No update needed.
+[18:51:54:529] [Windows] [EAC Launcher] [Info] Current progress: 100 (1/1).
+[18:52:24:047] [Windows] [EAC Launcher] [Info] Launcher finished with: 301, 'Easy Anti-Cheat successfully loaded in-game'.
+[18:52:24:047] [Windows] [EAC Launcher] [Info] Successfully initialized the Easy Anti-Cheat service, waiting for game window to become visible.
+[18:52:24:047] [Windows] [EAC Launcher] [Info] Unlocking the launch lock, allowing next game to launch to take place.
+[18:52:36:787] [Windows] [EAC Launcher] [Info] The game window has become visible, the bootstrapper will leave the visible state.
+[18:52:36:798] [Windows] [EAC Launcher] [Info] Downloaded 1 bytes in 532 ms (0.00 KB/s)
+[18:52:36:798] [Windows] [EAC Launcher] [Info] Time spent waiting for the game window to become visible: 12739 ms.
+[18:52:36:798] [Windows] [EAC Launcher] [Info] Waiting for game process to exit, will return exit code upon termination.
